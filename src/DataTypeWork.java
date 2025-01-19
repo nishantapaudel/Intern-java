@@ -11,5 +11,6 @@ public class DataTypeWork {
         System.out.println("number 2 is: "+PI);
         System.out.println("number 3 is: "+num2);
 
+
     }
 }

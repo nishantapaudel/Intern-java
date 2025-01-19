@@ -7,6 +7,5 @@ public class ConstantWork {
 
         System.out.println("Area of Circle is: "+areaofcircle);
 
-
     }
 }

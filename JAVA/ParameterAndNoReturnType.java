@@ -13,5 +13,6 @@ public class ParameterAndNoReturnType {
     public static void printAge(int birthYear){
         int age = 2025 - birthYear;
         System.out.println("Your Age is: "+age);
+
     }
 }

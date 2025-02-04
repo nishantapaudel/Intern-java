@@ -14,6 +14,7 @@ public class NoParameterNoReturnType {
         System.out.println("Computer Name: Acer");
         System.out.println("Computer RAM: 8GB");
         System.out.println("Computer Price: 115000");
+
     }
 
 }
